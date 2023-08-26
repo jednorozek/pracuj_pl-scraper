@@ -1,0 +1,820 @@
+current_date,job_title,employer,workplace,responsibilities,requirements,optional_req,expiration_date
+2023-08-25,Data Scientist,HEINEKEN Global Shared Services,"aleja Jana Pawła II 43a, Czyżyny, Kraków","
+- developing predictive models and algorithms to solve complex business problems, such as forecasting timeseries, optimizing warehouses, predicting customer churn, running A/B tests, and optimizing transport and delivery routes
+- collaborating with a diverse global team of Data Scientists, Data Engineers, Business Intelligence Specialists, and Analytics Product Managers to develop and implement data-driven solutions
+- mentoring and coaching early-career data scientists, fostering an environment of continuous learning and growth
+- applying software engineering best practices, such as code versioning, structuring, and unit testing, to ensure the reliability and robustness of data science solutions
+- communicating effectively with various stakeholders, including fellow data scientists and sales managers, tailoring your message to your audience's level of technical understanding","
+- 2 - 4 years of experience as a Data Scientist in the business setting
+- experience building and designing complex data science solutions
+- MSc/MA/PhD in a technical discipline related to Data Science (Data Science, Physics, Computer Science, Econometrics, Bioinformatics, etc.)
+- effective communication skills so that you can tailor your message to the audience, be it a fellow Data Scientist or a Sales Manager
+- value-driven and pragmatic mind-set, focus on getting a result in an Agile manner
+- coaching and mentoring other data scientists in the earlier stages of their careers
+- knowledge of Machine Learning, Statistics, optimization algorithms and related fields
+- fluent Python programming skills and thorough knowledge of pandas & scikit-learn
+- experience with applying software engineering best practices, like code version systems, code structure and unit tests
+- familiarity with Azure stack (Azure Data Factory, Azure Machine Learning, Databricks) is a plus",,24 Sep 2023
+2023-08-25,Machine Learning Engineer,HEINEKEN Global Shared Services,"aleja Jana Pawła II 43a, Czyżyny, Kraków","
+- developing production-level ML libraries and algorithms for existing and future products
+- writing code to enhance machine learning capabilities
+- reviewing code developed by other team members, providing feedback and insights
+- Infrastructure Development and Management:
+- developing and improving the infrastructure used for building and deploying machine learning models
+- improving pipelines for data ingestion and feature engineering
+- designing and implementing processes for end-to-end management of machine learning pipelines
+- having hands-on experience with building data processing pipelines, large-scale machine learning systems, and big data technologies (e.g., Hadoop, Spark).
+- developing and implementing scalable and efficient model training workflows on a large scale
+- fluency in Python programming and working knowledge of Databricks and PySpark
+- fluency in extracting information from databases and good SQL skills
+- demonstrating very good coding skills and software development experience
+- understanding fundamental data science concepts and have experience with common tooling and packages used for machine learning
+- possessing knowledge of application architectures and design patterns
+- applying professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+- writing clean, efficient, documented, and scalable code","
+- at least 2 years of experience applying Machine Learning in the industry
+- experience in writing production code for machine learning models
+- experience related to using ML infrastructure at scale
+- very good coding skills and software development experience
+- fluency in Python programming.
+- working knowledge of Databricks and PySpark
+- end-to-end hands-on experience with building data processing pipelines, large-scale machine learning systems, and big data technologies (e.g., Hadoop, Spark)
+- fluency in extracting information from databases and good SQL skills
+- understanding of fundamental data science concepts and experience with common tooling and packages used for machine learning
+- knowledge of application architectures and design patterns
+- knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+- ability to write clean, efficient, documented, and scalable code",,24 Sep 2023
+2023-08-25,BI Developer / Power BI Developer,Novaris Sp. z o.o.,Cała Polska (praca zdalna),"
+- Dostarczanie rozwiązań MS Power Platform oraz Business Intelligence jak i administracja platformy Power BI","
+- Doświadczenie zawodowe w obu językach programowania: SQL (preferowany T-SQL) i DAX
+- Doświadczenie zawodowe w co najmniej jednym z języków programowania: R, VBA, Python
+- Doświadczenie w dostarczaniu rozwiązań MS Power Platform oraz Business Intelligence jak i administracja platformy Power BI
+- Doświadczenie z hurtowniami danych, ETL (SSIS)
+- Doświadczenie w modelowaniu i przetwarzaniu danych
+- Certyfikowane lub udokumentowane doświadczenie ITIL Foundation w zarządzaniu usługami IT
+- Udokumentowane doświadczenie zawodowe minimum 2 lata na podobnym stanowisku
+- Doskonałe umiejętności interpersonalne i komunikacyjne
+- Dobra znajomość języka angielskiego w mowie i piśmie","
+- Posiadasz wyższe wykształcenie techniczne
+- Zdałeś jeden z certyfikatów: Microsoft Certified - Data Analyst Associate, MCSA - BI Reporting
+- Doskonała znajomość języka angielskiego w mowie i piśmie",24 wrz 2023
+2023-08-25,Power BI/QlikSense/Tableau Developer,Capgemini Polska,Kraków,"
+- Collecting requirements and propose technical solutions in cooperation with the client;
+- Visualizing data using advanced reports and dashboards;
+- Design of physical and logical data models based on the star or snowflake schema;
+- Test automation and code deployment using DevOps & CI/CD best practices.","
+- At least 3 years of experience in Microsoft Power BI, QlikSense or Tableau;
+- Knowledge of SQL language and least one relational database system;
+- Experience in one or more of the listed tools and technologies: JavaScript, Angular, Grafana, IBM Cognos, SAP Business Objects, QlikSense, QlikView, Tableau, OBIEE;
+- Practical knowledge of software engineering best practices;
+- Good command of English or German;",,24 Sep 2023
+2023-08-25,ETL Developer (Informatica),Capgemini Polska,Kraków,"
+- Implementation and optimization of data warehousing and ETL processes,
+- act as a technical expert in the designing, coding, testing, supporting, and debugging of new software or significant enhancements to existing software,
+- troubleshoot and debug ETL jobs,
+- assess query performance and actively contribute to optimizing the code,
+- write technical documentation and specifications,
+- work with DBAs and Data Architects to plan and implement the best ETL strategies,
+- write complex SQL queries (involving Stored Procs, Cursors, functions, packages, etc).","
+- At least 3-5 years of total experience with Informatica PowerCenter,
+- experience with MS SQL Server or Oracle,
+- experience of working in Devops with Agile/Scrum in teams,
+- experience with Linux,
+- extensive knowledge of CI/CD and CI/CD tools,
+- knowledge of Azure technologies would be an advanteage (AZ900, or better certification preferred),
+- very good command of English.",,24 Sep 2023
+2023-08-25,Cloud Data Engineer,Capgemini Polska,Kraków,"
+- design and development of data processing solutions,
+- implementation of Data Lake and Data Mesh architecture in public cloud platforms,
+- implementation, optimization and testing of modern cloud solutions and in the Continuous Delivery / Continuous Integration environment,
+- working in Cloud environments using InfrastructureAsCode.","
+- at least 3 years of commercial experience in AWS, Azure or GCP,
+- knowledge of one of following languages: Scala/Java/Python/C#,
+- knowledge of at least one relational database system and SQL language,
+- familiarity with one or more of the listed (or similar) technologies: Jenkins, Terraform, Cloud Formation, Docker, Kubernetes,
+- very good command of English (willingness to learn German would be an advantage).",,24 Sep 2023
+2023-08-25,Młodszy Programista SQL,Walstead Central Europe,"Obrońców Modlina 11, Podgórze, Kraków","
+- wsparcie, tworzenie oraz udoskonalanie istniejących rozwiązań bazodanowych, a także implementację nowych rozwiązań,
+- wspólnie z Architektem opracowanie nowych rozwiązań związanych z bazami danych,
+- wsparcie zespołu programistów w zakresie tworzenia, testowania oraz implementacji rozwiązań bazodanowych,
+- bieżące rozwiązywanie pojawiających się problemów technicznych,
+- realizacja zleceń HD,
+- bieżące utrzymanie aplikacji,
+- uczestniczenie w procesie HD na drugim poziomie (analiza obiektów bazodanowych oraz zapytań SQL),
+- wsparcie procesu testów jakościowych nowych funkcjonalnoś","
+- studia kierunkowe, licencjat w zakresie informatyki / elektroniki lub podobne,
+- znajomość języka SQL w szczególności T-SQL,
+- znajomość zagadnień baz danych MS SQL Server,
+- umiejętność tworzenia oraz optymalizacji zapytań SQL,
+- zdolność szybkiego diagnozowania przyczyn awarii i usterek,
+- podstawowa znajomość technik programowania.","
+- doświadczenie w branży IT na stanowisku związanym z programowaniem baz danych,
+- certyfikaty w zakresie umiejętności programowania baz danych w szczególności związane z MS SQL Server,
+- znajomość języka angielskiego na poziomie komunikatywnym w mowie i piśmie.",24 wrz 2023
+2023-08-25,Snowflake Developer,ITFS sp. z o.o.,Cała Polska (praca zdalna),"
+- Budowanie infrastruktury danych w środowisku chmurowym
+- Orkiestracja danych
+- Budowanie Data Pipeline’ów
+- Budowanie Data Lakehouse, Data Lake’ów
+- Programowanie w Pythonie
+- Tworzenie strumieni danych","
+- Preferowane min. 4 lata doświadczenia
+- Min. 2-letnie doświadczenie ze Snowflake i Data Warehouse
+- Doświadczenie w inżynierii danych
+- Min. 2-letnie doświadczenie z SQL (w tym advanced/analytic SQL)
+- Min. 1-roczne doświadczenie z przynajmniej jedną chmurą - AWS, Azure i/lub GCP
+- Umiejętność programowania w Pythonie
+- Doświadczenie w projektowaniu i rozwijaniu kompleksowych data pipelinów do ekstrakcji danych przy użyciu Python i SQL
+- Doświadczenie w projektowaniu schematu hurtowni danych, znajomość Kimball lub Inmon do projektowania DWH
+- Język angielski na poziomie min. B2/C1","
+- Workflow Management i orkiestracja: Airflow, AWS Managed Airflow, NiFi
+- Wiele źródeł danych (np. kolejki, relacyjne bazy danych, pliki, API)
+- Integracja danych: Spark, Snowpark, AWS Data Migration Services, Azure DataFactory, Google DataFlow
+- Przetwarzanie strumieniowe: Kafka, event/streaming, Streamsets, NiFi
+- Narzędzia do transformacji danych (np. dbt)
+- Integracja danych w chmurze (np. Fivetran)
+- ETL Low Code/No Code (np. Matillion)
+- Doświadczenie w Oracle Database (szczególnie hurtowni danych z Oracle)
+- Migracja danych ze starszych wersji (Oracle, DB2, SQL Server, Netezza itp.) do Snowflake Cloud Data
+- Doświadczenie w programowaniu PL/SQL",22 wrz 2023
+2023-08-25,Python Developer,ITFS sp. z o.o.,Cała Polska (praca zdalna),"
+- Tworzenie nowych funkcjonalności i integracji
+- Programowanie/pisanie skryptów w Python
+- Tworzenie dokumentacji technicznej dla wprowadzonych projektów
+- Tworzenie obiektów w bazie (tabel, widoków, itp.)
+- Administracja zasobami danych
+- Pomoc w tworzeniu architektury baz danych
+- Współpraca z zespołem
+- Konfiguracja procesów przy użyciu narzędzi do tzw. „schedulingu”","
+- Doświadczenie jako Python Developer (min. 1 rok)
+- Dobra znajomość SQL i Oracle DBs
+- Doświadczenie w analizie danych
+- Znajomość infrastruktury IT oraz Redhat Linux
+- Znajomość Microsoft Excel
+- Chęć rozwoju w kierunku Analityka technicznego",,22 wrz 2023
+2023-08-25,Data Engineer,Itransition sp. z o.o.,Poland (remote work),,"
+- 5+ years of Data Engineer experience
+- Knowledge and experience working with data warehouse and data lake
+- Experience in ETL/ELT processes design, development, and maintenance
+- Experience with Azure solutions and services is a must
+- Experience in identifying and resolving data quality issues, data transformation errors, and performance bottlenecks in data pipelines
+- Experience managing technical and functional metadata, data catalog and lineage
+- Strong knowledge of Python (including experience with big data processing using Pandas)
+- Experience with Snowpark API
+- Strong knowledge of SQL. Experience with at least one RDBMS (MySQL, PostgreSQL, SQL Server, Oracle, DB2)
+- Experience with at least one VCS (Git, SVN, etc.)
+- Upper-Intermediate or above level of English
+- Interacting with the team for at least 4 working hours according to the Central Standard Time (UTC/GMT -5 hours) is necessary","
+- Experience working in an Agile/Scrum development process
+- Experience with Scala
+- Experience with BI visualization tools (e.g., Power BI, Tableau, or Qlik)
+- Microsoft Azure Certification",07 Sep 2023
+2023-08-25,Oracle Developer,Webellian Sp. z o.o.,Poland (remote work),"
+- Designing, implementing and testing ETL processes.
+- Data modeling of Global Data Model - Data Store and Data Marts (Star Schema/Snowflake).
+- Integration of data from multiple sources.
+- SQL tuning, identification, and resolution of bottlenecks in ongoing processes.
+- Data analysis.
+- Interact with business users on regular basis to consolidate and analyze the requirements.
+- Incident and problem resolution according to project needs.
+- Production maintenance.","
+- MS degree in Computer Science, Engineering, or a related subject.
+- Experience with Oracle Version 10g, 11g, 12c.
+- Strong experience with Oracle functions, procedures, triggers, packages & performance tuning.
+- Hands-on development using Oracle PL/SQL.
+- Performance tune SQL's, application programs, and instances.
+- AWS Cloud environment knowledge.
+- Knowledge of data warehouse modeling concepts.
+- Knowledge of the insurance business.
+- Experience with code repository tools.
+- Experience with PL/SQL is a benefit.
+- Knowledge of SAS Data Integration Studio or Microstrategy is a plus.
+- Good English speaking/writing skills are a must, English classes available",,01 Sep 2023
+2023-08-25,Data Scientist (Credit),Revolut LTD,Poland (remote work),"
+- Building models for full Retail Credit lifecycle
+- Improving existing algorithms and building new Proofs of Concept
+- Delivering real impact to the product through rigorous data-driven solutions
+- Researching and then delivering PoCs into data products
+- Collaborating with product owners, engineers, and data scientists to continually solve complex data problems","
+- Experience working in a data science team of a credit institution
+- A Bachelor's/Master's/PhD in STEM (Mathematics, Computer Science, Engineering)
+- Excellent knowledge of data science tools, including, python coding, SQL and production tools
+- A deep understanding of probability and statistics fundamentals
+- A big-picture mindset to correctly diagnose problems, produce research, and discover solutions
+- Excellent communication and collaboration skills to partner with Product Owners and business heads",,21 Sep 2023
+2023-08-25,Data Scientist (NLP Deep Learning Engineer),Revolut LTD,Poland (remote work),"
+- Building an in-app personal assistant from scratch
+- Working on user-focused features
+- Delivering real impact to the product through rigorous data-driven solutions
+- Collaborating with product owners, engineers, and data scientists to continually solve complex data problems","
+- Experience in Deep Learning within Natural Language Processing area and Large Language Models
+- A bachelor's degree in a STEM major (mathematics, computer science, engineering)
+- Excellent knowledge of data science (python, SQL) and production tools
+- A deep understanding of probability and statistics fundamentals
+- Big picture thinking to correctly diagnose problems and productionising research
+- Excellent communication and collaboration skills to partner with Product Owners and business heads","
+- A master's or PhD in a quantitative discipline
+- Strong experience with additional programming languages, such as Java, Scala, C++
+- Experience at a large tech company worth >$15B
+- School/University Olympic medal competitions in physics, maths, economics or programming",21 Sep 2023
+2023-08-25,Data Scientist,CHABRE IT SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Poland (remote work),"
+- Processing data and automation of this processing using Python and GCP ecosystem technologies, regularly versioning code (GitHub), and then drawing and presenting conclusions
+- Creating and optimizing predictive, segmentation, and recommendation models that solve specific business problems
+- Designing and implementing each step of the modeling process (EDA, feature engineering, feature selection, model training, deployment, monitoring, explainability)
+- Participating in the processes of model deployment to production and its maintenance
+- Visualizing the results of your work using Jupyter Notebook, Tableau or DataStudio
+- Collaborating with the business and engineering teams as an IT member","
+- Graduated with a degree strongly related to statistical/mathematical modeling, such as Mathematics, Physics, Economics, Computer Science or a similar major
+- Have at least 2 years of experience as Data Scientist or any other related position
+- Were responsible for implementing projects independently
+- Use Python to process data and create machine-learning models
+- Know and understand machine learning algorithms and can apply them in practice
+- Are familiar with SQL and have experience (or interest) in big data analytics in a cloud environment
+- Are able to create charts/visualizations that present analysis results in a simple and intuitive way
+- Have a strong desire to learn and develop their skills
+- Know English at B2 level",,22 Sep 2023
+2023-08-25,Big Data Engineer (Data & AI),CHABRE IT SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Poland (remote work),"
+- Working on mentioned above systems and processes","
+- Are programming in languages such as Java or Scala, as well as Python
+- Have experience in Big Data ecosystems, e.g. Hadoop, Spark, Kafka, Airflow, Druid
+- Use good practices (clean code, code review, TDD, CI/CD)
+- Navigate efficiently within Unix/Linux systems
+- Are interested in the application of ML AI
+- Possess a positive attitude and team-working skills
+- Are eager for personal development and keep their knowledge up to date
+- Know English at B2 level","
+- Knowledge of GCP or other public cloud environments (Dataproc, Dataflow, Composer, BigQuery, Pubsub)",22 Sep 2023
+2023-08-25,Data Engineer - Data Science Hub,Allegro,Kraków,"
+- You will be actively responsible for building data processing tools for modeling and analysis – in close cooperation with both Data Science teams
+- You will be supporting both Data Science teams in the development of data sources for ad-hoc analyses and Machine Learning projects
+- You will process terabytes of data using Google Cloud Platform BigQuery, Composer, Dataflow and PySpark as well as optimize processes in terms of their performance and GCP cloud processing costs
+- You will collect process requirements from project groups and automate tasks related to preprocessing and data quality monitoring, prediction serving, as well as Machine Learning model monitoring and retraining
+- You will be responsible for the engineering quality of each project and you will cooperate with your colleagues on the engineering excellence","
+- We are looking for people who:
+- Have ability to fluently work with SQL in traditional engines (e.g. MySQL, PostgreSQL) or cloud engines (e.g. BigQuery, Snowflake). You will be working with SQL on a daily basis.
+- Have experience in Python programming and are familiar with software engineering best practices (PEP8, clean architecture, code review, CI/CD etc.)
+- Have positive attitude and ability to work in a team
+- Are eager to constantly develop and broaden their knowledge","
+- Experience with Big Data ecosystem (Spark, Airflow)
+- Knowledge of BigData tools in Google Cloud Platform or other public cloud (e.g AWS, Azure)
+- Commercial experience in DevOps and CI/CD practice (e.g. GitHub Actions) in the area of ML/AI
+- Experience with cloud applications architecture",21 Sep 2023
+2023-08-25,Data Engineer - Data&AI,Allegro,Kraków,"
+- We are seeking a skilled and motivated Data Engineer to join our team. The successful candidate will have a solid understanding of Snowflake, Tableau, SQL, and Python, with nice-to-have knowledge in Keboola, Spark, and Google Cloud. Your main responsibility will be building data pipelines, enhancing existing jobs, and leading a crucial migration project from Snowflake to Google Cloud Platform (GCP) as well as:
+- Design, develop, and maintain robust, scalable data pipelines using Snowflake, Python, SQL, and other relevant technologies
+- Oversee a large-scale migration from Snowflake to Google Cloud Platform, ensuring data integrity and minimal disruption to ongoing operations
+- Respond to business data requests promptly and efficiently, prioritising tasks as directed by the team leader and product owner
+- Carry out reverse engineering when necessary, especially in instances where documentation may be lacking
+- Ensure that the data solutions are aligned with the company's business requirements and strategic goals
+- Play an active role in decision-making processes regarding the selection and implementation of data frameworks","
+- We are looking for people who:
+- Have Bachelor's degree in Computer Science, Information Systems, or a related field. Advanced degree is a plus
+- Have proven experience as a Data Engineer or in a similar role
+- Can demonstrate strong proficiency in Snowflake, SQL, Python and other engineering tools
+- Are experienced in Keboola, Spark, and Google Cloud Platform is a plus
+- Owns ability to perform reverse engineering and solve complex problems
+- Have strong communication skills, capable of conveying complex ideas in a clear, concise manner
+- Are detail-oriented and capable of working in a fast-paced, dynamic environment",,21 Sep 2023
+2023-08-25,Business Intelligence ETL Database Developer with English & German,Volkswagen Group Services sp. z o.o.,Cała Polska (praca zdalna),"
+- Opracowywanie zapytań i doradztwo fachowe,
+- Samodzielna analiza danych i procesów,
+- Tworzenie modeli danych,
+- Tworzenie procesów i narzędzi ETL,
+- Definiowanie struktur danych w bazie i narzędziach BI,
+- Fachowa współpraca z IT-Service odpowiedzialnym za omówienie procesów i logiki,
+- Tworzenie dokumentacji.","
+- Bardzo dobre umiejętności analityczne,
+- Bardzo dobra znajomość SQL (pisanie zapytań i tworzenie obiektów bazodanowych, tworzenie jobów i procedur),
+- Znajomość języka angielskiego i niemieckiego na poziomie min. B2,
+- Doświadczenie w koncepcji relacyjnych modeli danych,
+- Doświadczenie w administracji baz danych,
+- Dobra znajomość języków programowania JAVA lub Python lub/oraz Bash.","
+- Umiejętność administracji/zarządzania Linux.",24 wrz 2023
+2023-08-25,Developer PL/SQL z niemieckim,KZ INSPIRE,Cała Polska (praca zdalna),"
+- Tworzenie wysokiej jakości kodu
+- Projektowanie rozwiązań IT
+- Przygotowywanie dokumentacji technicznej i funkcjonalnej","
+- Minimum 3 letnie doświadczenie w tworzeniu systemów informatycznych
+- Samodzielność działania, kreatywność
+- Znajomość technologii programowania PL/SQL
+- Znajomość bazy danych Oracle (11-21)
+- Dobra znajomość metodologii software developmentu
+- Znajomość języka niemieckiego na poziomie C1","
+- Wiedza inżynierska zwłaszcza z odpowiednimi narzędziami jak np. Volare
+- Znajomość programowania Oracle APEX będzie dodatkową zaletą",04 wrz 2023
+2023-08-25,Data Warehouse Analyst,ITDS Polska Sp. z o.o.,Poland (remote work),"
+- Building a corporate Data Mark for the risk area
+- Collecting user needs and mapping them to the information content of data warehouse areas
+- (mainly Risk issues) or reports
+- Making and testing the prototype of the analyzed area on production data (SQL in the established template)
+- Setting up a process for monitoring, tracking, and trending department data
+- Determining the target data model for the analyzed change
+- Implementing and using the analytics software and systems to support the department’s goals","
+- 3+ years of experience in a similar role
+- Advanced knowledge of SQL
+- Expertise in best practices, data warehouses and reporting techniques
+- Experience in data modeling and DWH processes
+- Past experience in the banking area (experience in the risk area is nice to have)
+- Fluent Polish",,13 Sep 2023
+2023-08-25,SQL Developer,Mindbox S.A.,Kraków,"
+- Help write and optimize in-application SQL statements
+- Ensure performance, security, and availability of databases
+- Prepare documentations and specifications
+- Handle common database procedures such as upgrade, backup, recovery, migration, etc.
+- Profile server resource usage, and optimize and tweak as necessary
+- Collaborate with other team members and stakeholders","
+- Strong proficiency with SQL and its variation among popular databases
+- Experience with some of the modern relational databases
+- Skilled at optimizing large complicated SQL statements
+- Knowledge of best practices when dealing with relational databases
+- Capable of configuring popular database engines and orchestrating clusters as necessary
+- Ability to plan resource requirements from high level specifications
+- Capable of troubleshooting common database issues
+- Familiar with tools that can aid in profiling and optimizing server resource usage.
+- Strong in MS SSIS package development and implementation
+- Expert in coding SSIS and SQL
+- Experience in SSIS jobs and scheduling
+- Should have GCP platform experience like BigQuery/GKE and pipeline design and build.
+- Experience in Python and Pyspark is preferred.
+- Strong ETL development experience for at least 4
+- SQL DBA experience will be a plus.",,20 Sep 2023
+2023-08-25,C#.NET/SQL Developer,PROFI CREDIT POLSKA S.A.,małopolskie,"
+- Rozwój nowych modułów wg przyjętych standardów,
+- Utrzymanie istniejących aplikacji,
+- Udział w nowych projektach w obszarze finansów.","
+- Bardzo dobra znajomość C# ASP .NET Core 6+ / .Net Framework,
+- Bardzo dobra znajomość zapytań do relacyjnych baz danych SQL,
+- Dobra znajomość środowiska DOCKER
+- Znajomość architektury mikroserwisów, REST API, WCF
+- Zdolność do wielozadaniowości poprzez różne zadania i zmieniające się priorytety,
+- Kreatywne podejście do rozwiązywania powstających problemów,
+- Umiejętność pracy pod presją czasu,
+- Komunikatywność połączona z umiejętnością oraz chęcią pracy zespołowej,
+- Rozumienie potrzeb biznesu,
+- Umiejętność pisania testów jednostkowych,
+- Bardzo dobra znajomość platformy IDE Visual Studio,
+- Znajomość GIT,","
+- Mile widziane znajomość kontrolek DevExpress",09 wrz 2023
+2023-08-25,Programista / Programistka baz danych,TAURON Obsługa Klienta sp. z o.o.,Kraków,"
+- Administracja rozbudowaną hurtownią danych
+- Administracja oraz wsparcie aplikacji BI
+- Realizacja zgłoszeń użytkowników zarejestrowanych na portalu Help Desk
+- Analiza dokumentacji projektowych
+- Wsparcie oraz uczestnictwo w projektach informatycznych
+- Tworzenie i aktualizacja dokumentacji technicznych poprojektowych","
+- Wykształcenie min. średnie, preferowane wyższe kierunkowe (informatyka)
+- Dwuletnie doświadczenie w pracy na stanowisku i z zakresem obowiązków obejmującym zarządzanie/administrację relacyjnymi bazami danych lub budowę procesów ETL
+- Znajomość bazy danych Oracle
+- Znajomość zagadnień związanych z optymalizacją procesów przetwarzania danych
+- Praktyczna znajomość języków SQL, PL/SQL
+- Znajomość narzędzi ETL i zagadnień związanych z przetwarzaniem wielkich wolumenów danych
+- Prawo jazdy kat. B
+- J. angielski – na poziomie umożliwiającym posługiwanie się angielskojęzyczną dokumentacją
+- Znajomość SQL Developer, Oracle Data Integrator ODI, Oracle BI
+- Znajomość obsługi systemów unixowych
+- Umiejętność pracy samodzielnej oraz zespołowej
+- Zdolność analitycznego myślenia
+- Odpowiedzialność, kreatywność i komunikatywność
+- Rzetelność oraz umiejętność pracy pod presją czasu
+- Dyspozycyjność","
+- Znajomość rozwiązań Business Intelligence
+- Znajomość platformy serwerowej Oracle WebLogic
+- Znajomość zagadnień i narzędzi Big Data
+- Znajomość zasad ITIL",08 wrz 2023
+2023-08-25,Azure Databricks Data Engineer,Nordcloud sp zoo,Kraków,"
+- Designing, architecting, and implementing modern cloud-based pipelines for our customers
+- Making data accessible and usable for a new wave of data-powered apps and services","
+- 5+ years of professional programming experience and hands-on experience in building modern data platforms/pipelines
+- At least one programming language: Python/Scala/Java
+- Experience in job orchestration (Airflow, Composer, etc.)
+- Experience in Databricks
+- Experience in Azure; (AWS, Google Cloud would be a plus)
+- Experience in Data Engineering related technology stack (Azure Synapse, ADF, Dataflow, Pub/Sub- this is not an exhaustive list)
+- Good knowledge of data storage and processing engines in the selected Cloud provider
+- Consultancy experience
+- Previous experience gained in mid-size/large, international companies
+- Fluent communication skills in English","
+- OPS knowledge - Kubernetes/Docker/CI/CD - how to efficiently put things into prod
+- Basic IaaC skills (Terraform or similar tools)
+- Testing skills (writing automated tests/data quality checks)
+- Basic low-tech data analytics skills - Excel/pandas
+- Experience in SQL
+- Data modeling (Kimball, Inmon, Data Vault, etc.)
+- Advanced SQL in any SQL dialect (ANSI SQL/specific database specific dialects, Spark SQL, Hive/Impala, Presto/Trino)
+- Experience in building ETL processes for data warehousing solutions
+- Experience with MongoDB or Cassandra
+- Familiarity with data lake architectures
+- Experience with Snowflake
+- Active (knowledge-proven) certificates",16 Sep 2023
+2023-08-25,Data Engineer (with Scala),Capgemini Polska,Kraków,"
+- translating complex functional and technical requirements into detailed design,
+- implementation of scalable and high-performance data processing solutions using Spark and Scala,
+- design and implementation of software to process large and unstructured datasets (noSQL, Data Lake Architecture),
+- optimizationand testing of modern Big Data solutions, also in cloud and Continuous Delivery / Continuous Integration environment.","
+- at least 3 years of commercial experience working in projects in Data Engineering, Big Data and/or Cloud environment using Apache Spark and Scala,
+- knowledge of at least one (non)relational database system and SQL language,
+- familiarity with one or more of the listed (or similar) technologies and tools: Oozie, Hive, Hadoop, Sqoop, Kafka, Flume, Hbase,
+- very good command of English.",,09 Sep 2023
+2023-08-25,Data & BI Developer,summ-it s.a.,"Opolska 110, Prądnik Czerwony, Kraków","
+- Analiza wymagań biznesowych i projektowanie rozwiązań hurtowni danych,
+- Projektowanie oraz implementację procesów ETL,
+- Projektowanie hurtowni danych Data Mart,
+- Tworzenie semantycznych modeli danych na platformie Microsoft (Azure Analysis Services),
+- Przygotowanie modeli danych i raportów w Power BI z wykorzystaniem języków DAX, M,
+- Praca z systemami cloud oraz on premise,
+- Dokumentacja techniczna rozwiązań.","
+- Wykształcenie wyższe informatyczne lub pokrewne,
+- Roczne doświadczenia w realizacji projektów hurtowni danych,
+- Bardzo dobra znajomość zagadnień związanych z projektowaniem, tworzeniem relacyjnych oraz analitycznych systemów baz danych opartych o MS SQL Server,
+- Bardzo dobra znajomość analitycznych systemów baz danych opartych o MS SQL Server,
+- Umiejętność tworzenia oraz doświadczenie w optymalizacji zapytań T-SQL,
+- Doświadczenie w przetwarzaniu danych za pomocą Azure Databricks, Azure Synapse (Python i Scala),
+- Dobra znajomość Power BI,
+- Samodzielność i zdolność analitycznego myślenia,
+- Znajomość języka angielskiego na poziomie min. B2,
+- Odpowiedzialność za powierzone zadania,
+- Umiejętność pracy w grupie, otwartość, komunikatywność,
+- Innowacyjność i kreatywność przy wdrażaniu nowych rozwiązań,
+- Odporność na stres,
+- Gotowość do ciągłego rozwoju.","
+- Doświadczenie w tworzeniu hurtowni danych oraz OLAP na platformie PaaS,
+- Microsoft Certified: Power BI Data Analyst Associate,
+- Microsoft Certified: Azure Data Engineer Associate (DP203),
+- Microsoft Certified: Azure Enterprise Data Analyst Associate.",26 sie 2023
+2023-08-25,Data Engineer,CHABRE IT SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Poland (remote work),"
+- Designing, implementing, and maintaining data processing solutions for the Risk department in the bank, including Machine Learning-based models. Creating scalable systems using Python and GCP
+- Managing the data warehouse, designing the database structure, optimizing SQL queries, and ensuring data availability and consistency for users. Focus on risk area
+- Implementing and configuring the DBT tool for data transformation. Creating and managing DBT models to facilitate easier data transformation, particularly in risk-related projects","
+- Proficiency in Python
+- Experience with GCP (Google Cloud Platform)
+- SQL skills in the field of Data Engineering
+- Knowledge of data warehousing","
+- Familiarity with DBT
+- Experience in new technology companies such as Spotify, Airbnb, Amazon, Google, other large organizations, and startups",09 Sep 2023
+2023-08-25,AWS Data Engineer,Capgemini Polska,Kraków,"
+- design and implementation of solutions processing large and unstructured datasets (Data Mesh , Data Lake or Streaming Architecture),
+- implementation, optimization and testing of modern DWH/Big Data solutions based on AWS cloud platform and Continuous Delivery / Continuous Integration environment,
+- data processing efficiency improvement, migrations from on-prem to public cloud platforms.","
+- At least 3 years of experience in Big Data or Cloud projects in the areas of processing and visualization of large and unstructured datasets (in different phases of Software Development Life Cycle),
+- practical knowledge of the AWS cloud in Storage, Compute (+Serverless), Networtking and DevOps areas supported by commercial project work experience,
+- theoretical AWS cloud knowledge supported with certificates (for example DVA-C01, SAA-C02, SAP-C01, VDS-C01, DAS-C01),
+- familiarity with several of the following technologies: Glue, Redshift, Lambda, Athena, S3, Snowflake, Docker, Terraform, CloudFormation, Kafka, Airflow, Spark,
+- at least basic knowledge of one of this programming languages: Python/Scala/Java/bash,
+- very good command of English (German language would be an advantage).",,09 Sep 2023
+2023-08-25,Programista / Programistka Hurtowni Danych,TAURON Obsługa Klienta sp. z o.o.,Kraków,"
+- Projektowanie, budowanie i rozwój oprogramowania w obszarze BI oraz hurtowni danych
+- Tworzenie interfejsów: integracja aplikacji biznesowych z BI Publisher/Oracle BI
+- Uruchamianie i testowanie stworzonych rozwiązań
+- Współpraca z użytkownikami biznesowymi
+- Tworzenie dokumentacji technicznej","
+- Bardzo dobra znajomość PL SQL/SQL
+- Doświadczenie w zakresie optymalizacji (PL/SQL, ETL)
+- Znajomość technologii i doświadczenie w pracy z rozwiązaniami firmy Oracle (Oracle Database, Oracle Application Express, Oracle Data Integrator, Oracle Business Intelligence)
+- Doświadczenie w tworzeniu aplikacji z wykorzystaniem Oracle APEX
+- Wiedza z zakresu hurtowni danych
+- Znajomość j. angielskiego umożliwiająca czytanie dokumentacji i uczestnictwo w szkoleniach","
+- Znajomość branży energetycznej
+- Umiejętność analitycznego myślenia
+- Samodzielność w działaniu oraz otwartość na proponowanie ulepszeń
+- Doświadczenie w pracy na podobnym stanowisku",08 wrz 2023
+2023-08-25,Data Engineer,ITDS Polska Sp. z o.o.,Kraków,"
+- Designing, building, testing, and deploying Google Cloud data models and transformations in BigQuery and the Datafusion environment
+- Reviewing, refining, and implementing business and technical requirements
+- Ensuring your active involvement in refining User Stories, Epics, and Backlogs in Jira to maintain ongoing productivity and priorities
+- Managing code artifacts and CI/CD processes using tools like Git, Jenkins, and Google Secrets Manager
+- Estimating, committing, and delivering requirements with a focus on scope, quality, and time expectations
+- Writing automated unit and regression tests to follow a test-centric development approach
+- Delivering non-functional requirements, IT standards, and developer and support tools to ensure secure, compliant, scalable, reliable, and cost-effective applications
+- Adhering to consistent logging, monitoring, error handling, and automated recovery practices as per HSBC standards
+- Developing procedures and scripts for data migration, back-population, and initialization
+- Maintaining a high-quality, up-to-date knowledge base, wiki, and admin pages for the solution","
+- 4+ years of experience in database design, development, and administration of Traditional/Cloud Databases & Data Warehouses/Procedures/Products
+- 1+ years of experience in developing, refactoring, and optimizing SQL/T-SQL procedures in BigQuery or equivalent Cloud Databases
+- Good understanding of GCP Core and Data Products, Architecting, and Designs/Patterns
+- Data preparation, wrangling, and refactoring skills, as part of a Data Science pipeline
+- Expertise in data visualization and editing for web, dashboard, or other user interfaces
+- Strong knowledge of IT methodologies and practices, including Agile/Scrum
+- Experience with collaboration tools such as JIRA and Confluence
+- BS/MS degree in Computer/Data Science, Engineering, Data, or related field
+- Excellent communication and interpersonal skills in English, with the ability to learn rapidly and independently","
+- Experience developing BI/MI reports and dashboards in a popular tool like Qlik (VizLib Library, VizLib Collaboration, Mashups, etc.), Tableau, Looker etc.
+- Experience in GCP based big data / ETL solutions DevOps / DataOps model
+- Experience of deploying and operating Datafusion/CDAP based solutions
+- Experience in building and operating CI/CD life-cycle management Git, Jenkins, Groovy, Checkmarx, Nexus, Sonar IQ and etc.
+- Expertise of Java, Python, DataFlow
+- Broad experience with IT development and collaboration tools.
+- An understanding of IT Security and Application Development best practice.
+- Understanding of and interest in various investment products and life cycle and the nature of the investment banking business.
+- Experience of working with infrastructure teams to deliver the best architecture for applications.
+- Working in a global team with different cultures",26 Aug 2023
+2023-08-25,Data Engineer,Avanade Poland Sp. z o.o.,Kraków,"
+- Finding trends in data sets and developing algorithms to help make raw data more useful to the enterprise.
+- Collecting the data from various sources, transforming it into desire formats, and storing it into data stores like Data Lake, Azure Synapse Analytics.
+- Implementing complex, large-scale big data projects focusing on collecting, managing, analyzing, and visualizing large datasets.
+- Taking part in designing and running bespoke data services for individual projects.
+- Staying up to date with leading-edge processes in using, retrieving data, building machine learning models.
+- Crafting and use effective metrics and monitoring processes.
+- Support deal teams by providing subject knowledge and solutions for client proposals","
+- At least three years of commercial experience with at least two of the following platforms \ frameworks:
+- Databricks
+- Azure Synapse
+- Azure Data Factory
+- Graphs (Azure Digital Twins, Neo4j)
+- One or more years of commercial experience with object-oriented languages (Python and\or C# is strongly preferred, but could be Java/C++ as long as you are willing to learn Python and\or C#)
+- SQL Server, Azure Data Lake, CosmosDB
+- Git
+- Good understanding of batch and streaming typical architectures.","
+- Snowflake
+- Azure Synapse Analytics
+- Delta Lake
+- Azure Streaming Analytics
+- Azure IoT",23 Sep 2023
+2023-08-25,BI Developer,Blue Media S.A.,Cała Polska (praca zdalna),"
+- projektowanie, wdrażanie, rozwój i doradztwo w obszarze wdrażania rozwiązań warstwy raportowej Business Intelligence w oparciu o platformę Power BI w ramach środowiska Data Lakehouse,
+- identyfikacja i zbieranie wymagań technicznych i wsparcie Analityka Danych w zakresie wymagań biznesowych, przeprowadzanie analizy wykonalności i zarządzanie oczekiwaniami właścicieli produktów,
+- wsparcie procesu tworzenia struktur środowiska Data Lakehouse w ramach obszaru Back-End,
+- bieżące wsparcie dla użytkowników biznesowych Data Lakehouse,
+- administracja nad wdrożonymi rozwiązaniami z zakresu warstwy raportowej,
+- szkolenia dla użytkowników biznesowych w zakresie obsługi wdrożonych rozwiązań.","
+- min. 3 lata doświadczenia na podobnym stanowisku,
+- praktyczną znajomość modelowania danych i koncepcji DWH,
+- umiejętność prezentacji danych w sposób klarowny dla odbiorcy,
+- łatwość zrozumienia biznesu oraz umiejętność konsolidowania i porządkowania informacji,
+- zaawansowaną znajomość narzędzi do przetwarzania, raportowania i wizualizacji danych,
+- podstawową znajomość obszarów pokrywanych przez pozostałe role objęte DWH, w tym: integracji danych z różnych systemów, procesów transformacji i czyszczenia danych, automatyzacja tych procesów,
+- podstawową znajomość zasad CI/CD oraz DevOps,
+- znajomość Power BI, SQL.","
+- znajomość: Python, Airbyte, JIRA, AWS, Snowflake.",22 wrz 2023
+2023-08-25,Data Engineer,Blue Media S.A.,Cała Polska (praca zdalna),"
+- zarządzanie i rozwój Data Lakehouse,
+- operacyjne prace nad utrzymaniem rozwiązania i wdrożeniami kolejnych usprawnień/rozbudowy,
+- współpraca z Data Ops i BI Developerami,
+- integracja systemów i danych,
+- budowanie przepływów danych oraz orkiestracja zadań,
+- tworzenie strumieniowych potoków danych,
+- projektowanie rozwiązań DWH (np. Star schema, Vault 2),
+- budowanie procesów ETL lub ELT,
+- tworzenie kodu aplikacji masowo przetwarzających dane,
+- techniczne testowanie rozwiązań.","
+- DWH / Lakehouse (Snowflake, Redshift, Databricks SQL)
+- Doświadczenie z AWS
+- AWS infrastructure (IAM, EC2)
+- AWS data engineering (S3, Glue, EMR, Athena)
+- Scala, Java and/or Python
+- dbt (ELT)
+- Apache Airflow
+- Apache Kafka
+- Data Integration (Airbyte and Kafka Connect)
+- Kafka Streams
+- Kubernetes (on premise, EKS)
+- Docker
+- Docker Compose
+- Helm 3
+- Flux CD
+- Git
+- GitLab CI/CD
+- Terraform",,22 wrz 2023
+2023-08-25,Data Engineer,HEINEKEN Global Shared Services,"aleja Jana Pawła II 43a, Czyżyny, Kraków","
+- structuring end-to-end processes of data extraction, transformation, and storage using serverless Azure services to deploy models and analytical solutions
+- handling activities such as quality assurance, data migration and integration, and solution deployment to ensure the business gets the best value
+- writing and maintaining ETL processes in Python, designing database systems, and developing tools for real-time and offline analytic processing
+- Development and Maintenance:
+- Implementing, maintaining, and further developing the functionality of Python packages for ETL processes, data lineage, operator inputs, including building logic
+- troubleshooting software and processes for data consistency and integrity
+- integrating large-scale data from a variety of sources for business partners to generate insights and make informed decisions
+- designing and implementing data flows to ensure efficient and reliable data movement
+- creating unit and integration tests for Python modules
+- participating in mission-critical processes of the data pipeline
+- Technical Skills and Collaborative Environment:
+- providing technical support in understanding business problems and designing smart data products
+- collaborating within an agile culture, contributing to the team's success
+- demonstrating excellent software engineering skills, including unit testing, integration testing, OOP, and the ability to write clean, efficient, documented, and scalable code","
+- significant commercial experience in a similar position
+- strong data analytics skills using Python
+- excellent software engineering skills (including unit testing, integration testing, OOP)
+- proficiency with Python and/or Scala (ideally both)
+- experience working with large datasets through Spark and RDBMS
+- solid knowledge of PySpark with the ability to apply it to write Spark applications as well as analyze data in a distributed environment
+- very good SQL skills and ability to extract information from databases
+- fluency in English for effective communication","
+- good working knowledge of Azure services
+- experience in building and releasing Infrastructure as Code using tools like Terraform
+- familiarity with versioning systems (e.g., Git), DevOps mode of working, and DevOps tools
+- understanding of machine learning models, deployment, and monitoring
+- strong interest in machine learning and a desire to develop skills in this field
+- experience working in agile organizations
+- being a team player with a proactive and collaborative approach",24 Sep 2023
+2023-08-25,Business Intelligence (Power BI) Developer,CLOUDFIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,Poland (remote work),"
+- Translating business requirements into technical solutions.
+- Working closely with stakeholders and business users.
+- Design and implement modern cloud-based solutions.
+- Build and launch new data models.
+- Optimize existing data models and reports, elevating the efficiency and impact of our data intelligence.
+- Implement best practices in data engineering to maintain data integrity, quality, and documentation - your work will increase data discoverability and understanding.
+- Take part in sharing your knowledge and engage in training activities to promote a learning culture.","
+- 3+ years of experience in delivering complex BI solutions - it's your time to excel!
+- Hands-on experience (2+ years) with Microsoft BI stack (Power BI, SSAS/AAS).
+- Mastery of DAX, M, SQL, Microsoft SQL Server, and PostgreSQL and query performance tuning - you make data dance!
+- Practical know-how in implementing row-level security (RLS) and Data Lake/Warehouse architectures.
+- Python coding experience - you're our code whisperer!
+- Familiarity with public cloud architecture, security, networking concepts (MS Azure preferred) - we like our clouds secure and efficient.
+- Strong conceptual and analytical skills - you're a whiz at defining and documenting complex requirements.
+- Fluent English communication - you can articulate tech in plain language.","
+- Experience with Databricks, Azure Synapse, Azure Data Factory, and Azure DevOps - these are your secret weapons!",07 Sep 2023
+2023-08-25,ETL Developer,IN4GE sp. z o.o.,Cała Polska (praca zdalna),"
+- Integracja danych pomiędzy systemami źródłowymi (SAP, Oracle, MS SQL) a aplikacjami do automatyzacji podatków i przesyłania e-faktur","
+- Minimum 3-letnie doświadczenie na stanowisku Database/ETL Developera
+- Doświadczenie w pracy z ETL – Talend/ Informatica Power Center/ SSIS
+- Bardzo dobra znajomość języka SQL i baz danych (np. Oracle, MS SQL Server) - warunek konieczny
+- Doświadczenie we wdrażaniu rozwiązań Business Intelligence
+- Bardzo dobra znajomość języka angielskiego (min. B2/C1)
+- Bardzo dobra znajomość języka polskiego","
+- Doświadczenie w obszarze finansów / podatków
+- Doświadczenie w pracy z systemem SAP
+- Umiejętność programowania w C# lub Java",07 wrz 2023
+2023-08-25,Cloud Developer / Full-stack,Acxiom Global Service Center Polska sp. z o. o,Poland (remote work),"
+- Understands requirements to build, enhance, or integrate programs and processes for one or more Acxiom Client solutions and/or applications. Able to read and interpret application design and functional specifications to write application code
+- Provides input on functional requirements and participates/ presents review code in code review sessions. Helps accurately estimate requirements in order to deliver client solutions within time, and quality standards
+- Utilizes standard/ Acxiom methodologies to ensure overall solution and data integrity is maintained
+- Understands Acxiom solution software. Defines solutions standards, policies and procedures
+- Identifies and diagnoses areas of maintenance and process improvement
+- Responds to client/stakeholder problems in a timely manner, prioritizing multiple issue response based on the severity of the case
+- Using a relevant software language, develops/ executes unit test cases and tests software applications that fulfill functional specifications using an IDE. Documents and interpret test results and correct application coding errors
+- Completes application development task for duration (Level of Effort >20hours and <=160 hour task) programming requirements with limited or no assistance from peers
+- Balance multiple small projects and works on larger projects with minimal guidance from more experienced developers to meet due dates and deadlines
+- Maintains Develops subject matter expertise in Acxiom technologies, verticals and lines of business in order to help align client business needs to products, solutions and services offered
+- Documents and shares best practices and case studies","
+- AWS knowledge (data transformation, frontend)
+- API calls
+- Python (for cloud solutions)
+- Javascript (local side, basic knowledge)
+- Frontend basic dev skills","
+- Full-Stack Dev experience
+- Backend dev skills
+- GCP or Salesforce knowledge
+- React (basic)
+- ETL experience
+- SQL knowledge",22 Sep 2023
+2023-08-25,Oracle PL/SQL Developer,ProSequentia Sp. z o.o.,Cała Polska (praca zdalna),"
+- projektowanie oraz implementacja rozwiązań w zakresie rozwoju i utrzymania systemów informatycznych
+- współpraca z członkami zespołów biznesowych w zakresie identyfikacji i analizy wymagań
+- modelowanie struktur i procedur bazodanowych
+- udział w testach realizowanych rozwiązań
+- dokumentacja wykonywanych prac","
+- bardzo dobra znajomość SQL, PL/SQL (min. 4 lata doświadczenia)
+- praktyczna znajomość baz danych
+- doświadczenie w zbieraniu i analizie wymagań dla nowych rozwiązań i zmian w systemach
+- doświadczenie w pracy w dużych środowiskach informatycznych
+- znajomość i doświadczenie w pracy z metodykami zwinnymi
+- wykształcenie informatyczne, techniczne, lub z dziedziny nauk ścisłych (wyższe lub ostatni rok studiów)","
+- dobra znajomość Oracle APEX
+- doświadczenie w ubezpieczeniach",26 sie 2023
+2023-08-25,Process Data Engineer,Shell,"Czerwone Maki 85, Dębniki, Kraków","
+- Analyze & process a broad range of petrophysical data.
+- Ontime & quality delivery of subsurface data requirements using various industry standard (including Shell proprietary) applications & databases.
+- Awareness of petrophysical data usage in related O&G workflows.
+- Driving data quality improvement through interaction with asset data analysts/consultants.
+- Ability to multi-task, prioritize and ensure delivery of priorities, and work independently according to established KPI.
+- Active participation in the technical sessions and providing solutions to the issues shared in the forums.
+- To identify & implement any improvement opportunities to ensure benefits in service/project delivery.
+- Perform the relevant QA/QC checks of raw and processed data.","
+- Bachelor's or master’s degree in geophysics, geology, physics, or a related technical discipline.
+- 2 to 5 years of experience in the oil & gas industry and must have at least one or more working proficiency in well logging, core sampling, petrophysical modeling, petrophysical evaluation, etc.
+- Must have exposure to petrophysical data in different avenues of oil and gas exploration & production.
+- Knowledge of E&P is essential and a basic understanding of other low-carbon energies is an advantage. Deepwater exposure is not required but will be considered as an advantage.
+- Hand-on experience in E&P standard petrophysics application suites (Techlog, Recall, etc.).
+- Digital skills: experience in Python, Linux, SQL, and PowerBI will be an advantage.
+- Should have a strong learner’s mindset and be a reliable team player.
+- Strong interpersonal skills, willingness to challenge self, and to be confident in building internal and external relationships.
+- Contributing to process improvement initiatives.",,22 Sep 2023
+2023-08-25,Machine Learning Engineer,ROBOTEC.AI sp. z o.o.,Poland (remote work),"
+- Develop and test Machine Learning tools for evaluation, data generation and model training.
+- Automate ML pipelines.
+- Work with perception layer of the AV/ADAS stack including LiDAR, camera, radar, ultrasonic, IMU and GPS sensors.
+- Develop perception algorithms for autonomous driving systems (object detection, classification and tracking).
+- Work with synthetic datasets based on simulation engines.
+- Develop algorithms and software to explore the rich world of autonomous vehicles operating conditions.
+- Work with time series data from connected and automated vehicles.
+- Develop novel detection anomalies solutions.","
+- University degree in Computer Science, Machine Learning, Computer Vision or related field (last year students are also welcome).
+- Good understanding of Machine Learning and Deep Learning concepts.
+- Solid software engineering skills in Python.
+- Practical experience with ML / Data Science related frameworks and libraries such as PyTorch, Tensorflow, Numpy, Pandas and Matplotlib.
+- Familiarity with collaboration tools and methods such as git or CI.
+- Excellent communication and teamwork skills.
+- At least C1 level of English in both writing and speaking in order to communicate with foreign clients.","
+- Experience with cloud infrastructure, especially on AWS.
+- Familiarity with robotics, sensors and simulations based on game engines (Unity3D, Unreal Engine).
+- Experience with (3D) Object Detection, time series datasets and anomaly detection methods.
+- Programing skills in strongly typed languages (e.g. C++, Go).",30 Aug 2023
+2023-08-25,Big Data Developer,SORIGO Sp. z o.o.,Cała Polska (praca zdalna),,"
+- posiadasz przynajmniej rok doświadczenia w pracy z technologiami Big Data, jak Apache Spark oraz Java, Scala lub Python,
+- masz doświadczenie w pracy z narzędziami: Spark, Airflow, Kafka, Hadoop ecosystem (HDFS, YARN), NiFi, Zeppelin, Hive, HBase, Gitlab, Docker, Oracle, Azure,
+- sprawne poruszasz się w środowisku Linux,
+- masz wiedzę i rozumiesz zagadnienia dotycząca integracji danych (narzędzia, metody, jakość danych),
+- znasz język angielski w stopniu komunikatywnym.",,06 wrz 2023
+2023-08-25,SQL Developer,SORIGO Sp. z o.o.,Cała Polska (praca zdalna),,"
+- posiadasz przynajmniej rok doświadczenia w pracy z technologiami SQL (PL/SQL, Oracle, T-SQL, MS SQL)
+- masz doświadczenie w pracy z DWH i procesami ETL
+- masz wiedzę i rozumiesz zagadnienia dotycząca optymalizacji procesów i zapytań SQL
+- masz umiejętność dekompozycji procesów","
+- masz doświadczenie w pracy z Python lub JavaScript
+- pracowałeś na środowiskach chmurowych: GCP",06 wrz 2023
+2023-08-25,Senior Software Engineer - SQL,BCF Software Sp. z o.o.,Poland (remote work),"
+- Work with our Project Manager (PM) and Technical Lead (TL) to apply your technical expertise to deliver systems and updates to them
+- Participate in the planning sessions
+- Provide time estimates for your work
+- Implement technical solutions suggested by the Technical Lead
+- Develop and extend existing PowerShell scripts that interact with XML-based APIs
+- Build or adapt SQL queries or stored procedures in support of the implementation
+- Review pull requests
+- Evangelise clean code and best practices inside the team","
+- A minimum of 6 years working as a developer within the Windows ecosystem (e.g. .NET, C#, MS SQL Server, etc)
+- A minimum of 6 month working with PowerShell scripts
+- Have contributed to enterprise applications before
+- Ideally have worked with XML-based APIs before
+- Fluent with Git (we are power users of Github)
+- You have worked in a team with a formal planning methodology (Scrum or something else) for 5+ years","
+- You are capable of routinely delivering at least one PR to production each work day
+- You are fluent in English (B2)
+- You are comfortable with finding the needle in the haystack within feature-rich systems
+- It's easy to interact with you: you speak your mind, and you communicate clearly
+- You ask questions to clarify the requirements",22 Sep 2023
+2023-08-25,MS SQL Developer,PEOPLE TRUST SP. Z O.O.,Cała Polska (praca zdalna),,"
+- Bardzo dobra znajomość relacyjnych bazy danych
+- Oracle SQL","
+- Znajomość technologii C#
+- Znajomość technologii REST",21 wrz 2023
+2023-08-25,.Net Developer,Novaris Sp. z o.o.,Cała Polska (praca zdalna),"
+- prowadzenie prac projektowych i implementacyjnych w systemach informatycznych opartych o technologie Oracle
+- współpraca z użytkownikami końcowymi (biznesowymi) przy zbieraniu i analizie wymagań dotyczących danych umieszczonych w nowym rozwiązaniu; w szczególności konieczność uszczegółowienia ogólnych zadań i koncepcji biznesowych
+- czynny udział w testach wewnętrznych oprogramowania
+- tworzenie i aktualizacja dokumentacji technicznej i funkcjonalnej systemu
+- współpraca w opracowywaniu nowych rozwiązań i obieraniu kierunków rozwojowych
+- wdrażanie działań dot. poprawy jakości danych w systemach oraz aplikacjach eksportujących dane do hurtowni danych
+- wsparcie w opiniowaniu specyfikacji technicznej oraz dokumentacji projektowej, technicznej i administracyjnej przygotowanej przez zespół ze strony trzeciej","
+- minimum 3-letnie doświadczenie programistyczne w realizacji projektów informatycznych w technologiach: C#, .NET (w tym w wersji 4.5), WCF, SQL, SQL Server Integration Services, HTML, MVC.NET
+- znajomość Javascript, jQuery, jQuery UI, HTML (w tym w wersji 5.0)/CSS (w tym w wersji 3.0)
+- znajomość środowiska Visual Studio Ultimate 2013
+- znajomość testowania modułowego oraz procesu automatyzacji testów
+- doświadczenie w tworzeniu aplikacji webowych
+- znajomości wzorców projektowych oraz zasad OOP
+- praktyczne doświadczenie z zakresu projektowania i programowania systemów informacyjnych dla instytucji finansowych lub instytucji podobnych odnośnie charakteru prowadzonej działalności, wielkości, złożoności i jakości rozwiązań informatycznych
+- znajomość zagadnień związanych z analizą wymagań biznesowych oraz systemowych dla systemów informatycznych
+- umiejętność współpracy z klientem biznesowym oraz wewnętrznym i dostawcą zewnętrznym
+- znajomość języka angielskiego umożliwiającej swobodną pracę z dokumentacją oraz literaturą techniczną","
+- znajomość podstaw UX design
+- znajomość metodologii AGILE, XP
+- znajomość języka PL/SQL oraz bazy danych Oracle
+- praktyczna znajomość przynajmniej jednego narzędzia typu CASE, np. Sparx Systems Enterprise Architect oraz języka UML
+- doświadczenie w pracy w strukturze macierzowej
+- znajomość ITIL",02 wrz 2023
+2023-08-25,Data Engineer,KZ INSPIRE,Kraków,"
+- Budowanie rozwiązań i infrastruktury mających na celu rozwiązywanie problemów biznesowych klientów
+- Pomoc w optymalizacji, testowaniu i opracowaniu narzędzi w celu poprawy jakości danych.
+- Współpracę z innymi inżynierami oprogramowania, ekspertami ML i interesariuszami, wykorzystując możliwości uczenia się i przywództwa, które będą pojawiać się każdego dnia.
+- Pracę w wielofunkcyjnych zwinnych zespołach, aby stale eksperymentować, iterować i realizować nowe cele produktowe.","
+- Minimum 3-letnie doświadczenie i znajomość jednego z języków programowania Python, Java, C# lub C++.
+- Bardzo dobra znajomość języka angielskiego, praca w środowisku międzynarodowym oraz komunikacja z klientem w języku angielskim.
+- Umiejętność pisania usług rozproszonych i pracy z dużą ilością danych, najlepiej z systemami rozproszonymi, takimi jak Spark.
+- Wiedza na temat zarządzania danymi, dostępu do danych i technik przechowywania danych.
+- Wysokie umiejętności w zakresie kontaktu z klientami: wygodna interakcja z klientami (odbiorcami biznesowymi i technicznymi), dostarczanie prezentacji, nastawienie na rozwiązywanie problemów.
+- Gotowość do podróży, aby spotkać się z klientami i zespołem (głównie w Europie i poza nią - do 10% Twojego czasu).",,02 wrz 2023
+2023-08-25,Data Engineer,Addepto,Poland (remote work),"
+- Design and construction of scalable data processing architecture
+- Using Big Data and BI technologies (e.g. Spark, Kafka, Hadoop, SQL)
+- Building an application that will aggregate, process, and analyze data from various sources
+- Cooperation with the Data Science department in the field of Machine Learning projects (including text/image analysis, building predictive models)
+- Manage distributed database systems like ClickHouse, BQ, Teradata, Oracle Exadata, PostgreSQL + Citus
+- Modeling, Star and Snowflake schema
+- Develop and organize data transformations in DBT and Apache Airflow
+- Translate requirements from the business and translate them into technical code
+- Ensure the best possible performance and quality in the packages
+- Manage business user’s expectations","
+- Higher education in technical and mathematical studies (or the last year of studies)
+- Commercial experience in the implementation, development, or maintenance of Business Intelligence or Big Data systems
+- Knowledge of Python (or Java/Scala)
+- Experience in SQL
+- Hands-on experience with Big Data technologies (Spark, Hadoop, Databricks)
+- Good command of the English language (min. B2+)
+- Experience with cloud services (AWS, Azure or GCP)
+- Independence and responsibility for delivering a solution
+- Excellent knowledge in Dimensional Data
+- Good communication and soft skills
+- Lead discussions, requirement sessions, should be able to comprehend, summarize and finalize the requirements
+- Familiarity with NiFi, Docker, Kafka, Airflow, Splunk",,02 Sep 2023
+2023-08-25,Data Engineer (GCP),GETINDATA POLAND sp. z o.o.,Poland (remote work),"
+- Development and committing of new functionalities and open-source tools
+- R&D, maintenance, and monitoring of the platform's components
+- Implementing and executing policies aligned to the strategic plans of the company concerning used technologies, work organization, etc.
+- Creating and propagating standards of work in projects
+- Undertaking work that requires the application of fundamental principles in a wide and often unpredictable range of contexts
+- Contributing to the organization's knowledge database","
+- Strong programming skills in Python and SQL
+- Knowledge of the BigQuery DWH platform
+- Working with Spark messaging systems
+- Experience working with Cloud Composer for orchestration tools
+- Experience working with GCP cloud
+- Familiarity with DevOps area and tools - GKE, Docker
+- Fundamental knowledge of data engineering, building data platforms, and solutions
+- Understanding complexity and relationships between businesses, suppliers, partners, competitors, and clients",,02 Sep 2023
