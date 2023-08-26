@@ -19,7 +19,7 @@ Our data source is nor replayable, but we can save data daily to ensure historic
 
 ### Get started
 
-+ Run `sudo chmod -R u=rwx,g=rwx,o=rwx logs dags` to add permissions 
++ Run `sudo mkdir -p logs dags && sudo chmod -R u=rwx,g=rwx,o=rwx logs dags` to create directories and add permissions 
 + Run `docker compose up airflow-init && docker compose up --build -d` to create images from docker-compose.yaml and to run database migrations and create the first user account in Airflow
 + Use `docker-compose down` to shutdown all services
 + Use `docker-compose up` to re-run all services whenever you want
